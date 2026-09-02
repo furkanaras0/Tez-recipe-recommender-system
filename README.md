@@ -168,25 +168,6 @@ npm install
 npm run dev
 ```
 Web arayüzü `http://localhost:3000` adresinde yayına başlayacaktır.
-
----
-
-## 📜 Akademik Atıf (Citation)
-
-Bu projeyi akademik veya sektörel bir çalışmanızda kullanırsanız lütfen aşağıdaki şekilde atıfta bulununuz:
-
-```bibtex
-@thesis{aras_yazici_2026,
-  author       = {Furkan Aras and İsmail Emirhan Yazıcı},
-  title        = {Food.com Veri Seti Kullanılarak İşbirlikçi Filtreleme ile Geliştirilmiş Tarif Öneri Sistemi},
-  school       = {Pamukkale Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü},
-  year         = {2026},
-  month        = {Mayıs},
-  type         = {Lisans Tezi},
-  note         = {Danışman: Öğr. Gör. Şevket Umut ÇAKIR}
-}
-```
-
 ---
 
 ## 📄 Lisans
