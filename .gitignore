@@ -1,0 +1,36 @@
+# Büyük veri ve model dosyaları
+*.pkl
+*.csv
+*.npz
+*.zip
+
+# Veritabanı dosyaları (Test kullanıcıları, şifre hashleri ve yerel SQLite verileri)
+*.db
+*.sqlite
+*.sqlite3
+
+# Python ortamı & Geçici dosyalar
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Ortam değişkenleri ve gizli anahtarlar
+.env
+.env.*
+!.env.example
+*.local
+
+# Node & Frontend derleme dosyaları
+node_modules/
+dist/
+build/
+coverage/
+*.log
+
+# IDE & İşletim sistemi dosyaları
+.vscode/
+.idea/
+.DS_Store
+
